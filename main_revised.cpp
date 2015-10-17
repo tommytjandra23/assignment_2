@@ -30,6 +30,8 @@ int main()
       ((nLet + 30) * (nLet + 30)))));
    cout << "Expression #5: " << exFive << endl;
 
+   cout << "Calculations completed." << endl; 
+
    return 0;
 
 }
